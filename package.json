@@ -1,12 +1,12 @@
 {
-  "name": "porn-template",
+  "name": "pug-template",
   "version": "1.0.0",
-  "description": "for porn project",
+  "description": "Pug template",
   "author": "NHAT.BUI",
   "url": "https://www.facebook.com/Cheatsomething",
   "license": "MIT License",
   "keywords": [
-    "porn template"
+    "Pug Template"
   ],
   "scripts": {
     "start": "gulp serve"
